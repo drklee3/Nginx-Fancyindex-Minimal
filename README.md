@@ -23,4 +23,4 @@ location / {
 
 ## Screenshots
 
-![Example #1](http://i.imgur.com/5eHmJMo.png)
+![Example #1](http://i.imgur.com/rjxt8mL.png)
